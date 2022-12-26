@@ -4,7 +4,7 @@
 
 in backend folder
 
-run below commands in "/backend"
+run following commands in "/backend"
 `npm i`
 `npm run migrate:reset`
 
@@ -14,7 +14,7 @@ run `npm start`
 
 
 ## To setup Fronted
-run below command in "/fronted"
+run following command in "/fronted"
 `npm i`
 
 ##To start Frontend
